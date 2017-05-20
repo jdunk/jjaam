@@ -10,6 +10,7 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
+            <img src="{{asset("/img/TAXI.jpg")}}" alt="" style="height: 250px; opacity: 0.9; border-radius: 15px;">
             <h1>Taxi Booking App</h1>
             <h3>Best Taxi Booking App in the whole world</h3>
             <br>
